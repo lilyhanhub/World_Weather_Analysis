@@ -1,14 +1,11 @@
 # World_Weather_Analysis
 ## Overview of the Analysis
+The purpose of this analysis is to create a vacation map to identify potential travel destinations and nearby hotels based on user's weather preferences. By utilizing Google Maps Directions APIs, it also allows users to choose cities to create their travel itinerary.
 
-PlanMyTrip app, 
-The analysis is split into three main stages: 
+The analysis is composed of three main stages: 
 * Collect and analyze weather data across cities worldwide.
 * Create a customer travel destinations map based on clients' weather preferences.
 * Created a travel itinerary map based on clients' travel preferences. 
-
-API data retrieval, to create a heatmap with pop-up markers that can dispaly information on specific cities based on a customer's travel preferences. 
-
 
 ## Results
 ### Weather Database
