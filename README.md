@@ -14,9 +14,9 @@
 
 
 ### Create a Travel Itinerary Map
-![WeatherPy_travel_map](../Vacation_Itinerary/WeatherPy_travel_map.png)
+![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
 
-![WeatherPy_travel_map_markers](../Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
 
