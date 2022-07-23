@@ -5,7 +5,7 @@ The purpose of this analysis is to create a vacation map to identify potential t
 The analysis is composed of three main stages: 
 * Collect and analyze weather data across cities worldwide.
 * Create a customer travel destinations map based on clients' weather preferences.
-* Created a travel itinerary map based on clients' travel preferences. 
+* Create a travel itinerary map based on clients' travel preferences. 
 
 ## Results
 ### Weather Database
